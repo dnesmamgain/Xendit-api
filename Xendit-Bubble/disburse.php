@@ -1,7 +1,7 @@
 <?php
 $errors = [];
 
-header('Access-Control-Allow-Origin: https://app.edtech.com');
+header('Access-Control-Allow-Origin: https://app.xenditapi.com');
 header('Access-Control-Allow-Headers: *');
 header('Access-Control-Allow-Methods: *');
 
