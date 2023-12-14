@@ -1,7 +1,7 @@
 <?php
 $errors = [];
 
-header('Access-Control-Allow-Origin: https://app.kocostar.id');
+header('Access-Control-Allow-Origin: https://app.xenditapi.id');
 header('Access-Control-Allow-Headers: *');
 header('Access-Control-Allow-Methods: *');
 
